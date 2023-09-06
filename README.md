@@ -1,13 +1,7 @@
-# introR
+# R Beginner Workshop
+#### introR
 introduce R and RStudio to students
 
-# NOTICE
-This repo has been archived to read-only since it is no longer active. Some of the links here may not be active. All materials can still be viewed/downloaded. 
-
-***
-
-
-# R Beginner Workshop: October 2019
 
 ### Post Workshop Survey Link https://forms.gle/3npKrTDzapVXWubm8
 
