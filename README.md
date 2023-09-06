@@ -3,7 +3,6 @@
 introduce R and RStudio to students
 
 
-### Post Workshop Survey Link https://forms.gle/3npKrTDzapVXWubm8
 
 # Please Note!
 This document is a work in progress. What you see may change over time, but contact us if you have questions or want to see something older.
